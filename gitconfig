@@ -1,0 +1,15 @@
+[user]
+	name = Serban Constantinescu
+	email = serbancon@gmail.com
+[core]
+	editor = vim
+	excludesfile = /home/serban/.gitignore
+[color]
+	ui = true
+[sendemail]
+	smtpserver = smtp.gmail.com
+	smtpserverport = 587
+	smtpencryption = tls
+	smtpuser = serbancon@gmail.com
+[merge]
+	tool = vimdiff
